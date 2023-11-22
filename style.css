@@ -1,6 +1,6 @@
 body{
     text-align:center;
-    background-color:#ffcc8e;
+    background-color:#e8c4ff;
   }
   
   .button1{
@@ -16,18 +16,18 @@ body{
     font-size:36px;
     text-align: center;
     text-decoration:none;
-    background-color:#FFA12B;
+    background-color:#8e2bff;
     display:block;
     position:relative;
     padding:20px 40px;
     
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: none;
     text-shadow: 0px 1px 0px #000;
     filter: dropshadow(color=#000, offx=0px, offy=1px);
     
-    -webkit-box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #915100;
-    -moz-box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #915100;
-    box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #915100;
+    -webkit-box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #4f198d;
+    -moz-box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #4f198d;
+    box-shadow:inset 0 1px 0 #FFE5C4, 0 10px 0 #4f198d;
     
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -36,11 +36,11 @@ body{
   
   .button1 a:active{
     top:10px;
-    background-color:#F78900;
+    background-color:#7325cc;
     
-    -webkit-box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3px 0 #915100;
-    -moz-box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3pxpx 0 #915100;
-    box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3px 0 #915100;
+    -webkit-box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3px 0 #4f198d;
+    -moz-box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3pxpx 0 #4f198d;
+    box-shadow:inset 0 1px 0 #FFE5C4, inset 0 -3px 0 #4f198d;
   }
   
   .button1:after{
